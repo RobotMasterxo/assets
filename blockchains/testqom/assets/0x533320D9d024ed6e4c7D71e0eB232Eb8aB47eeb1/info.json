@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "",
+    "explorer": "https://testnet.qom.one/address/0x533320D9d024ed6e4c7D71e0eB232Eb8aB47eeb1",
+    "status": "active",
+    "id": "0x533320D9d024ed6e4c7D71e0eB232Eb8aB47eeb1"
+}
